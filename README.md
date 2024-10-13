@@ -19,17 +19,17 @@
 - master: ???; Mar 28 sarahtt210
 
 
-# Arduino
+# Arduino (old locations)
 
-Body Lights - Eyes, mouth, heart, arms: InitialVersion|main/InitialVersion/phyz_lights_20240120/phyz_lights_20240120.ino **(MOVED HERE)**
+Body Lights - Eyes, mouth, heart, arms: InitialVersion|main/InitialVersion/phyz_lights_20240120/phyz_lights_20240120.ino
 
-Engine Lights (red lights): InitialVersion|main/InitialVersion/phyz_engine_lights_SarahPlusBE_20240102.ino **(MOVED HERE)**
+Engine Lights (red lights): InitialVersion|main/InitialVersion/phyz_engine_lights_SarahPlusBE_20240102.ino
 
-Wheels: InitialVersion|alex-inprogress/Alex/PhyzBodyController-Standalone/ **(MOVED HERE)**
+Wheels: InitialVersion|alex-inprogress/Alex/PhyzBodyController-Standalone/
 
-Chassis Lights: InitialVersion|main/InitialVersion/chassis_lights_20231010.ino **(MOVED HERE)**
+Chassis Lights: InitialVersion|main/InitialVersion/chassis_lights_20231010.ino
 
-PC Arduino (button clicks - mouth): phyzArduino|master/phyzArduino.ino **(VERIFY)**
+PC Arduino (button clicks - mouth): phyzArduino|master/phyzArduino.ino
 
 
 # Raspberry Pi
